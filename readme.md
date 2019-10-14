@@ -19,33 +19,29 @@ Sharpest with Python, Postgresql, Linux. Quick study and fair polymath.
 
 Industry-leading producer of software for Amazon sellers; long-time eaters of own dogfood.
 
-#### Senior engineer
+#### Senior engineer: 2015 - present
 
-2019: After years of trying to advocate for a cohesive effort to upgrade our codebase to be Python 3 compatible, and with the January 1st, 2020 deadline less than a year away, decided to just do it. Put together a plan covering our various projects, our out-of-date dependencies, and our several deployment processes, with an emphasis on careful but continual progress. Presented this to my colleagues this summer, integrated their feedback, and finally got widespread buy-in. The project is not quite on track to make the end-of-life deadline but it should wrap up in the first half of 2020.
+* Designed and initiated a plan for incremental migration to Python 3, dealing with broad dependency upgrades first. Negotiated with engineering and business development teams to achieve buy-in and secure resources enabling a timeline all teams could work with.
+* Integrated FedEx, UPS and USPS APIs into our in-house fulfillment system for automatic flagging of problem shipments needing customer support.
+* While investigating our transaction handling code for possible refactoring, uncovered a subtle but potentially devastating bug that eventually proved to be responsible for the scattered but disturbing cases of "impossible" database state we'd been observing for years.
+* Designed and implemented a major new repricing feature for our flagship product (see next section for details), allowing it to automatically respond to competitor's pricing strategies over time.
+* Rebuilt the invoicing system for this product, improving reliability and readability and increasing test coverage. In the process, uncovered and fixed several long-standing bugs.
+* Ran a project to merge eight git repositories with partially overlapping file structure while preserving history and commit order.
 
-2018: Integrated FedEx, UPS and USPS APIs into our in-house fulfillment system for automatic flagging of problem shipments needing customer support.
+#### Engineering, architecture, database administration - 2010 to 2015
 
-2018: Uncovered a subtle bug in our transaction code that eventually proved to be responsible for the scattered but disturbing cases of "impossible" database state we'd been observing for years. We decided the rate of problems did not yet justify the work that would be involved in safely fixing the problem, but we now know what look out for and and where to go to fix it if it becomes a problem.
+* Worked with core team to architect a new flagship product, Sellery, a highly configurable repricing and inventory management system, leveraging our existing codebase.
+* Acted as primary liaison between support team and development team, striving to ensure that the dev team understood customer needs and confusions and the support team understood technical aspects of feature timelines, blockers, and necessary downtime.
 
-2017: Designed and implemented a major new repricing feature for Sellery allowing it to automatically respond to competitor's pricing strategies over time.
+#### Ops transitioning to software development - 2004 to 2009
 
-2016: Rebuilt the invoicing system for our flagship product, improving reliability and readability and increasing test coverage. In the process, uncovered and fixed several long-standing bugs.
+* Turned a critical business process that relied on a single SQL query taking two to three weeks into a distributed system using a custom-built lightweight database.
+* Over the course of two years, improved the efficiency of this system by over a thousand times, handling ten times the throughput in in less than one hundredth the time, while constantly adding new features and adapting to changes in our upstream data sources.
+* Managed an ever-growing network of desktop and server machines, then hired, trained and managed my replacement for that role.
 
-2015: Spent two months trying to merge eight git repositories with partially overlapping file structure while preserving history, commit order, and rewindability. Ultimately we had to sacrifice the last goal, but the end result worked for our purposes and the project was considered a success.
+#### Sandwich mastery - 2007 to present
 
-#### Engineering, architecture, database administration
-
-2012-2015: Worked to improve reliability, performance and observability of our flagship product, Sellery. Acted as primary liaison between support team and development team, striving to ensure that the dev team understood customer needs and confusions and the support team understood technical aspects of feature timelines, blockers, and occasional downtime.
-
-2010-2012: Design, architecture and beta phase of Sellery. Worked with core team to architect a new flagship product leveraging our existing codebase. Ultimately this would grow to a scale considerably larger than our own operations.
-
-#### Ops transitioning to software development
-
-2005-2009: Turned a critical business process that relied on a single SQL query taking two to three weeks into a distributed system using a custom-built lightweight database. Over the course of two years, improved this system to the point where it handled over ten times as much work in less than one hundredth the time, while constantly adding new features and adapting to changes in our upstream data sources.
-
-#### Sandwich mastery
-
-2007-present: Built thousands of sandwiches. Enjoyed them.
+Built thousands of sandwiches. Enjoyed them.
 
 ## Contact
 
