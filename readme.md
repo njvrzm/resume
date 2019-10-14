@@ -47,10 +47,6 @@ Industry-leading producer of software for Amazon sellers; long-time eaters of ow
 
 2007-present: Built thousands of sandwiches. Enjoyed them.
 
-### Various: 1995-2003
-
-From 1995 to 2003 I worked various tech support and systems and network administration jobs. Feel free to ask me about them :)
-
 ## Contact
 
 Email: njvrzm@gmail.com
