@@ -47,3 +47,4 @@ Built thousands of sandwiches. Enjoyed them.
 
 Email: njvrzm@gmail.com
 Phone: (503)750-1387
+SO: https://stackoverflow.com/users/9200529
