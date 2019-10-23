@@ -23,7 +23,7 @@ Industry-leading producer of software for Amazon sellers; long-time eaters of ow
 
 #### Senior engineer: 2015 - present
 
-* Designed and initiated a plan for incremental migration to Python 3, dealing with broad dependency upgrades first. Negotiated with engineering and business development teams to achieve buy-in and secure resources enabling a timeline all teams could work with.
+* Designed and initiated a plan for incremental migration to Python 3 of our ten year old, half-million-line code base, dealing with broad dependency upgrades first. Negotiated with engineering and business development teams to achieve buy-in and secure resources enabling a timeline all teams could work with.
 * Integrated FedEx, UPS and USPS APIs into our in-house fulfillment system for automatic flagging of problem shipments needing customer support.
 * While investigating our transaction handling code for possible refactoring, uncovered a subtle but potentially devastating bug that eventually proved to be responsible for the scattered but disturbing cases of "impossible" database state we'd been observing for years.
 * Designed and implemented a major new repricing feature for our flagship product (see next section for details), allowing it to automatically respond to competitor's pricing strategies over time.
