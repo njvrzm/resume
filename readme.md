@@ -2,16 +2,18 @@
 
 ## Summary
 
-I:
+I thrive on:
 
-* thrive on complex systems and collaboration to improve process.
-* care deeply about clear and respectful communication within and between teams. 
-* rubber duck expertly.
-* seek opportunities to learn, to help, and to teach.
+* analyzing and understanding complex systems
+* collaboration to improve process
+* facilitating successful and respectful communication within and between teams
+* helping colleagues understand their problems better
+
+I'm seeking opportunities to learn, to teach, and to put my experience to work on new challenges.
 
 ## Skills
 
-Sharpest with Python, Postgresql, Linux. Quick study and fair polymath.
+Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databases generally, mongodb, rabbitmq, networking, distributed systems. Reading/tinkering familiarty with JS, Java, Cxx, and more.
 
 ## Employment
 
