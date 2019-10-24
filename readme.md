@@ -21,7 +21,7 @@ Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databa
 
 Industry-leading producer of software for Amazon sellers; long-time eaters of own dogfood.
 
-#### Senior engineer: 2015 - present
+#### Lead engineer: 2015 - present
 
 * Designed and initiated a plan for incremental migration to Python 3 of our ten year old, half-million-line code base, dealing with broad dependency upgrades first. Negotiated with engineering and business development teams to achieve buy-in and secure resources enabling a timeline all teams could work with.
 * Integrated FedEx, UPS and USPS APIs into our in-house fulfillment system for automatic flagging of problem shipments needing customer support.
@@ -30,7 +30,7 @@ Industry-leading producer of software for Amazon sellers; long-time eaters of ow
 * Rebuilt the invoicing system for this product, improving reliability and readability and increasing test coverage. In the process, uncovered and fixed several long-standing bugs.
 * Ran a project to merge eight git repositories with partially overlapping file structure while preserving history and commit order.
 
-#### Engineering, architecture, database administration - 2010 to 2015
+#### Senior engineer, architecture, database administration - 2010 to 2015
 
 * Worked with core team to architect a new flagship product, Sellery, a highly configurable repricing and inventory management system, leveraging our existing codebase.
 * Acted as primary liaison between support team and development team, striving to ensure that the dev team understood customer needs and confusions and the support team understood technical aspects of feature timelines, blockers, and necessary downtime.
