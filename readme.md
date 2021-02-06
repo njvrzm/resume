@@ -13,11 +13,32 @@ I'm seeking opportunities to learn, to teach, and to put my experience to work o
 
 ## Skills
 
-Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databases generally, mongodb, rabbitmq, networking, distributed systems. Reading/tinkering familiarty with JS, Java, Cxx, and more.
+### Collaborative
+
+Dedicated to continuous reflection and improvement at the company, team, and personal levels. Empathetic listener and communicator. Student and advocate of DEI practices.
+
+### Technical
+
+Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databases generally, mongodb, rabbitmq, networking, distributed systems, containers. Actively learning (and excited about!) go and rust. Reading/tinkering familiarity with JS, Java, Cxx, and more.
 
 ## Employment
 
-### SellerEngine Software - 2004 to present
+### New Relic - January 2020 through November 2020
+
+#### Senior Software Engineer, Deployment Experience
+
+* Developed and deployed the company's first Ansible role for installing a language agent - the Java Agent.
+
+* Tested and completely revised the Docker installation documentation for all eight language agents.
+
+* Led engineering analysis and acceptance testing on an ad-hoc team rebuilding the new-user experience for New Relic One.
+
+* Added configuration file linting support to [New Relic Diagnostics](https://github.com/newrelic/newrelic-diagnostics-cli), the support organization's customer-facing diagnostics suite. 
+
+* Integrated New Relic Diagnostics into the main [New Relic CLI](https://github.com/newrelic/newrelic-cli). This was a long-standing goal of both teams that had been put on hold due to technical challenges.
+
+
+### SellerEngine Software - April 2004 through November 2019
 
 Industry-leading producer of software for Amazon sellers; long-time eaters of own dogfood.
 
