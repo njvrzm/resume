@@ -31,7 +31,7 @@ Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databa
 
 * Tested and completely revised the Docker installation documentation for all eight language agents.
 
-* Led engineering analysis and acceptance testing on an ad-hoc team rebuilding the new-user experience for New Relic One.
+* Led engineering analysis and acceptance testing on an ad-hoc team rebuilding the new-user experience for [New Relic One](https://newrelic.com/platform).
 
 * Added configuration file linting support to [New Relic Diagnostics](https://github.com/newrelic/newrelic-diagnostics-cli), the support organization's customer-facing diagnostics suite. 
 
