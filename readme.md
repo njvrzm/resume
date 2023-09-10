@@ -6,7 +6,7 @@ I thrive on:
 
 * analyzing and understanding complex systems
 * collaboration to improve process
-* facilitating successful and respectful communication within and between teams
+* facilitating successful and humane communication within and between teams
 * helping colleagues understand their problems better
 
 I'm seeking opportunities to learn, to teach, and to put my experience to work on new challenges.
@@ -19,7 +19,7 @@ Dedicated to continuous reflection and improvement at the company, team, and per
 
 ### Technical
 
-Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databases generally, MongoDB, RabbitMQ, networking, distributed systems, Docker. Actively learning (and excited about!) Go and Rust. Reading/tinkering familiarity with JS, Java, Cxx, and more.
+Experienced with Python, golang, Postgresql, Linux. Solid understanding of SQL databases generally, MongoDB, RabbitMQ, networking, distributed systems, kubernetes. Reading/tinkering familiarity with JS, Java, Cxx, and more. Always excited to learn new languages and technologies.
 
 ## Employment
 
@@ -31,7 +31,7 @@ Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databa
 
 * Tested and completely revised the Docker installation documentation for all eight language agents.
 
-* Led engineering analysis and acceptance testing on an ad-hoc team rebuilding the new-user experience for [New Relic One](https://newrelic.com/platform).
+* Led engineering analysis and acceptance testing on a tiger team rebuilding the new-user experience for [New Relic One](https://newrelic.com/platform).
 
 * Added configuration file linting support to [New Relic Diagnostics](https://github.com/newrelic/newrelic-diagnostics-cli), the support organization's customer-facing diagnostics suite. 
 
@@ -41,7 +41,7 @@ Deep expertise with Python, Postgresql, Linux. Solid understanding of SQL databa
 
 Industry-leading producer of software for Amazon sellers; long-time eaters of own dogfood.
 
-#### Lead engineer: 2015 - present
+#### Lead engineer: 2015 - November 2019
 
 * Designed and initiated a plan for incremental migration to Python 3 of our ten year old, half-million-line code base, dealing with broad dependency upgrades first. Negotiated with engineering, support, and business development teams to achieve buy-in and secure resources enabling a timeline all teams could work with.
 * Integrated FedEx, UPS and USPS APIs into our in-house fulfillment system for automatic flagging of problem shipments needing customer support.
