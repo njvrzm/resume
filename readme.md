@@ -1,69 +1,92 @@
-# Nathan Verzemnieks
+---
+title: Nathan Verzemnieks
+---
 
-## Summary
+-------------------      ----------------
+nathan@njvrzm.dev           Amsterdam, NL
+github.com/njvrzm          +31 6 29775957
+-------------------      ----------------
 
-I thrive on:
+## Goal
 
-* analyzing and understanding complex systems
-* collaboration to improve process
-* facilitating successful and humane communication within and between teams
-* helping colleagues understand their problems better
+To help grow resilient, connected teams and build reliable, manageable, and useful software systems.
 
-I'm seeking opportunities to learn, to teach, and to put my experience to work on new challenges.
+## Expertise
 
-## Skills
+Programming languages:
+:   Expert in Go, Python, Bash, AWK, SQL.
+:   Tinkerer in Javascript, Java, C, C++, many others.
 
-### Collaborative
+Systems & Technologies:
+:   Extensive experience with Linux system administration and networking, PostgreSQL, MongoDB, Docker, Kubernetes, OpenTelemetry, AWS, GCP, web protocols and standards, distributed systems, and more.
 
-Dedicated to continuous reflection and improvement at the company, team, and personal levels. Empathetic listener and communicator. Student and advocate of DEI practices.
+Collaboration:
+:   Dedicated to continuous reflection and improvement at the personal, team, and company levels. Empathetic listener and communicator. Student and advocate of DEI practices.
 
-### Technical
+## Experience
 
-Experienced with Python, golang, Postgresql, Linux. Solid understanding of SQL databases generally, MongoDB, RabbitMQ, networking, distributed systems, kubernetes. Reading/tinkering familiarity with JS, Java, Cxx, and more. Always excited to learn new languages and technologies.
+### Lightstep: Staff Software Engineer - June 2021 to December 2022
 
-## Employment
+* Lead engineer of a new team including early-career, senior and staff engineers. Led a successful project to replace the outdated sales demo system. The new system was more flexible and allowed sales engineers to demo new product features and build new demo scenarios independently.
+* Extended several core ingestion services to enrich incoming telemetry with resource-based metadata from GCP, AWS, Datadog, and other sources.
+* Enhanced the enrichment service with a persistence layer that was still in use virtually maintenance-free when I left over a year later.
+* Helped develop and lead the Backend SIG (Special Interest Group), a cross-department engineering group dedicated to identifying and driving initiatives to improve architecture and code quality system-wide.
 
-### New Relic - January 2020 through November 2020
+Languages used:
+:   Go, Javascript, Python
 
-#### Senior Software Engineer, Deployment Experience
+Technologies:
+:   Kubernetes, GRPC, PostgreSQL, GCP, AWS, Google Cloud Monitoring, Amazon Cloudwatch, OpenTelemetry, Node.js
 
-* Developed and deployed the company's first Ansible role for installing a language agent - the Java Agent.
+### New Relic: Senior Software Engineer - January 2020 to November 2020
 
-* Tested and completely revised the Docker installation documentation for all eight language agents.
+* Led engineering analysis and acceptance testing on a tiger team rebuilding the new-user experience for New Relic One `[1]`.
+* Thoroughly tested and completely revised the Docker installation documentation for instrumentation agents for eight programming languages.
+* Added configuration file linting support to New Relic Diagnostics `[2]`, the support organization's customer-facing diagnostics suite.
+* Integrated New Relic Diagnostics into the New Relic CLI `[3]`. This was a long-standing goal of both teams that had been put on hold due to technical challenges.
 
-* Led engineering analysis and acceptance testing on a tiger team rebuilding the new-user experience for [New Relic One](https://newrelic.com/platform).
+Languages used:
+:   Go, Python, PHP, Javascript, Java, .NET, Ruby, C
 
-* Added configuration file linting support to [New Relic Diagnostics](https://github.com/newrelic/newrelic-diagnostics-cli), the support organization's customer-facing diagnostics suite. 
+Technologies:
+:   Docker, Kubernetes, React, Ansible
 
-* Integrated New Relic Diagnostics into the main [New Relic CLI](https://github.com/newrelic/newrelic-cli). This was a long-standing goal of both teams that had been put on hold due to technical challenges.
+`[1]`: https://newrelic.com/platform
 
-### SellerEngine Software - April 2004 through November 2019
+`[2]`: https://github.com/newrelic/newrelic-diagnostics-cli
 
-Industry-leading producer of software for Amazon sellers; long-time eaters of own dogfood.
+`[3]`: https://github.com/newrelic/newrelic-cli
 
-#### Lead engineer: 2015 - November 2019
+<br/>
 
-* Designed and initiated a plan for incremental migration to Python 3 of our ten year old, half-million-line code base, dealing with broad dependency upgrades first. Negotiated with engineering, support, and business development teams to achieve buy-in and secure resources enabling a timeline all teams could work with.
+<br/>
+
+### SellerEngine Software: Sysadmin, Software Engineer - April 2004 to November 2019
+
+Industry-leading producer of software for Amazon sellers; multinational e-commerce vendor.
+
+#### Lead engineer: 2015 - 2019
+
+* Designed and initiated a plan for incremental migration to Python 3 of our 10 year old, half-million-line code base, dealing with broad dependency upgrades first. Negotiated with engineering, support, and business development teams to achieve buy-in and secure resources, enabling a timeline all teams could work with.
 * Integrated FedEx, UPS and USPS APIs into our in-house fulfillment system for automatic flagging of problem shipments needing customer support.
 * While investigating our transaction handling code for possible refactoring, uncovered a subtle but potentially devastating bug that eventually proved to be responsible for the scattered but disturbing cases of "impossible" database state we'd been observing for years.
-* Designed and implemented a major new repricing feature for our flagship product, allowing it to automatically respond to competitor's pricing strategies over time.
+* Designed and implemented a major new repricing feature for our flagship product, allowing it to automatically respond to competitors' pricing strategies over time.
 * Rebuilt the invoicing system for this product, improving reliability and readability and increasing test coverage. In the process, uncovered and fixed several long-standing bugs.
 * Ran a project to merge eight git repositories with partially overlapping file structure while preserving history and commit order.
 
-#### Senior engineer, architecture, database administration - 2010 to 2015
+#### Senior engineer: 2010 - 2015
 
 * Worked with core team to architect a new flagship product, Sellery, a highly configurable repricing and inventory management system, leveraging our existing codebase.
-* Acted as primary liaison between support team and development team, striving to ensure that the dev team understood customer needs and confusions and the support team understood technical aspects of feature timelines, blockers, and necessary downtime.
+* Acted as primary liaison between product and development, ensuring that the dev team understood customer needs and confusions and the product team understood technical aspects of feature timelines, blockers, and necessary downtime.
 
-#### Ops transitioning to software development - 2004 to 2009
+#### System administrator and software engineer: 2004 - 2009
 
-* Turned a critical business process that relied on a single SQL query taking two to three weeks into a distributed system using a custom-built lightweight database.
-* Over the course of two years, improved the efficiency of this system by over a thousand times, handling ten times the throughput in in less than one hundredth the time, while constantly adding new features and adapting to changes in our upstream data sources.
-* Managed an ever-growing network of desktop and server machines, then hired, trained and managed my replacement for that role.
+* Observed that a critical business cycle took two weeks because of a monolithic SQL query which was getting slower over time. Took initiative to replace this with a distributed system using a custom-built lightweight ETL pipeline and database, shortening the cycle to half a day.
+* Over the course of two years, improved the efficiency of this system by over three orders of magnitude, handling ten times the throughput in in less than one hundredth the time, while constantly adding new features and adapting to changes in our upstream data sources.
+* Managed an ever-growing network of desktop, server and virtual machines, then hired, trained and managed my replacement for that role.
 
-## Contact
+Languages used:
+:   Python, Javascript, Java, Bash, AWK, Javascript
 
-* Email: nathan@njvrzm.dev
-* Phone: (503)750-1387
-* LinkedIn: https://www.linkedin.com/in/nathan-verzemnieks
-* SO: https://stackoverflow.com/users/9200529
+Technologies:
+:   PostgreSQL, MongoDB, MySQL, SQLite, Docker, AWS, VirtualBox
