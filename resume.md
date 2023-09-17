@@ -41,7 +41,6 @@ Technologies:
 ### New Relic: Senior Software Engineer - January 2020 to November 2020
 
 * Led engineering analysis and acceptance testing on a tiger team rebuilding the new-user experience for New Relic One `[1]`.
-* Replaced a critical business process that relied on a single SQL query which ran for two to three weeks with a distributed system using a custom-built lightweight ETL pipeline and database.
 * Thoroughly tested and completely revised the Docker installation documentation for instrumentation agents for eight programming languages.
 * Added configuration file linting support to New Relic Diagnostics `[2]`, the support organization's customer-facing diagnostics suite.
 * Integrated New Relic Diagnostics into the New Relic CLI `[3]`. This was a long-standing goal of both teams that had been put on hold due to technical challenges.
